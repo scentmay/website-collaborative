@@ -10,6 +10,10 @@ body{
     text-align: center
 }
 
+#b1 {
+    background-image: url("../img/bg.jpg");
+}
+
 .h1Class {
     font-size: 60px;
     background-color: white;
